@@ -1,0 +1,12 @@
+background.svg
+<a href="https://www.freepik.com/free-photos-vectors/design">Design vector created by freepik - www.freepik.com</a>
+logo.svg
+<a href="https://www.freepik.com/free-photos-vectors/logo">Logo vector created by freepik - www.freepik.com</a>
+ad-icon.svg
+https://www.iconfinder.com/search/?q=education&price=free&style=flat
+notescontent1
+<a href='https://www.freepik.com/free-photos-vectors/people'>People vector created by freepik - www.freepik.com</a>
+notescontent2
+<a href='https://www.freepik.com/free-photos-vectors/people'>People vector created by freepik - www.freepik.com</a>
+notescontent3
+<a href='https://www.freepik.com/free-photos-vectors/business'>Business vector created by freepik - www.freepik.com</a>
